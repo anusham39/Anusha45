@@ -1,8 +1,9 @@
-package Learning_ATB13x_javaprogram;
+package ex_01_Java_Basic;
 
-public class ex_01_JavaBasic {
+public class Lab001_HelloWorldProgram {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        
+
+
     }
 }
