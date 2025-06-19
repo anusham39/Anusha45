@@ -10,5 +10,7 @@ public class Lab008_Comments {
      * @return void
      */
     public static void main(String[] args) {
-       //Method implementation
+        //Method implementation
+        System.out.println("HI");
+    }
 }
